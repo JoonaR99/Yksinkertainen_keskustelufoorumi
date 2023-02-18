@@ -1,0 +1,17 @@
+{
+  "name": "so2-oppimistehtava",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx nodemon index.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.9.2",
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.17",
+    "@types/sanitize-html": "^2.6.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "prisma": "^3.9.2",
+    "sanitize-html": "^2.7.0"
+  }
+}
